@@ -8,4 +8,5 @@ wheels/
 
 .venv
 # adding to gitignore
-backend/src/.env
+
+Project1/backend/src/.env
